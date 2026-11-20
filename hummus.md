@@ -6,3 +6,4 @@
 
 # method
 * blend together
+* serve in a cool bowl :)
